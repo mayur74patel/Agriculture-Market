@@ -1,0 +1,109 @@
+/*------------------------------------------------------------------
+    File Name: colors.css
+    Template Name: Grasscare
+    Created By: PSDCONVERTHTML
+    Envato Profile: http://themeforest.net/user/psdconverthtml
+    Website: https://psdconverthtml.com
+    Version: 1.0
+-------------------------------------------------------------------*/
+
+/** COLORS 1 **/
+::-moz-selection {
+    color: #fff;
+    text-shadow: none;
+    background: #7dc01c;
+}
+
+::selection {
+    color: #fff;
+    text-shadow: none;
+    background: #7dc01c;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover,
+.section-button .btn i,
+.buttons .st:hover,
+.copyrights .fa-angle-up:hover,
+.pagination > li:hover a,
+.pagination > li:hover span,
+.btn-primary:hover,
+.btn-primary:focus,
+.social-link:hover a {
+    color: #ffffff !important;
+    background-color: #7dc01c !important;
+    border-color: #7dc01c !important;
+}
+
+.readmore,
+.shop-meta small a,
+.team-members small,
+.small-title h4 i,
+.navbar-default .dropdown-menu > li:hover a,
+.navbar-default .dropdown-menu > li:focus a,
+.topbar a {
+    color: #7dc01c !important;
+}
+
+.workinghours li span,
+.twitter-posts p a,
+.header-contact i,
+.navbar-nav > li > a.active,
+.navbar-nav > li > a:focus,
+.navbar-nav > li > a:hover,
+.copyrights a:hover,
+.copyrights li:hover a,
+.navbar-nav > li:hover a,
+.navbar-nav > li:focus a,
+a:hover,
+a:focus {
+    color: #7dc01c;
+}
+
+/** COLORS 1 HOVER **/
+
+.form-control:focus,
+.footer,
+.widget-title hr,
+.twitter-posts p a {
+	border-color:#4d980e !important;
+}
+
+.section-button .btn:hover i,
+mark,
+.shop-wrapper .magnifier,
+.buttons .st,
+.copyrights .fa-angle-up,
+.btn-primary {
+	background-color:#4d980e !important;
+	border-color:#4d980e !important;
+	color:#ffffff;
+}
+
+/** COLORS 2 **/
+
+
+.btn-default,
+.navbar-default,
+.buttons .st {
+    background-color: #de7000 !important;
+    border-color: #de7000 !important;
+	color:#ffffff;
+}
+
+/** COLORS 2 HOVER **/
+.calloutbox,
+.buttons .st:hover,
+.buttons .st:focus,
+.btn-default:hover,
+.btn-default:focus {
+	background-color:#F57C00 !important;
+	border-color:#F57C00 !important;
+    color: #ffffff !important;
+}
+
+
+
+
+
+
+
+

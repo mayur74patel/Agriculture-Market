@@ -1,0 +1,748 @@
+/*------------------------------------------------------------------
+    File Name: responsive.css
+    Template Name: Grasscare
+    Created By: PSDCONVERTHTML
+    Envato Profile: http://themeforest.net/user/psdconverthtml
+    Website: https://psdconverthtml.com
+    Version: 1.0
+-------------------------------------------------------------------*/
+
+@media (min-width:1200px) and (max-width:1343px) {
+	.topbar .col-md-6.text-left {
+		width: 80%;
+	}
+	.topbar .col-md-6.text-right {
+		width: 20%;
+	}
+	#wrapper {
+		width: 96%;
+	}
+	.container {
+		width: 1170px;
+	}
+	.container {
+		width: 100%;
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	.banner-not-found img {
+		width: 100%;
+	}
+	#bunch_footer_image-2 {
+        display: none;
+    } 
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+	#wrapper {
+		width: 100%;
+	}
+	.lawn-maintenance {
+		margin-top: 25px;
+	}
+	.aio-icon-title {
+		font-size: 17px;
+	}
+	.aio-icon-description {
+		line-height: normal;
+	}
+	.imformation-text h2 {
+		font-size: 20px;
+	}
+	.imformation-text {
+		float: left;
+		width: 100%;
+		padding: 50px 50px;
+		margin: 0;
+		color: #fff;
+	}
+	.small-title h4 {
+		font-size: 16px;
+	}
+	.appointment {
+		border: none;
+		padding-left: 25px;
+		padding-right: 25px;
+		padding-top: 25px;
+		padding-bottom: 25px;
+	}
+	.appointment_form textarea {
+		height: 75px !important;
+		margin-top: 30px;
+	}
+	.imformation-text ul {
+		display: none;
+	}
+	footer {
+		padding: 90px 0;
+		height: auto;
+	}
+	#bunch_get_in_touch-2,
+	#bunch_services_posts-2,
+	#bunch_about_us-2 {
+		width: 50%;
+		margin-bottom: 20px;
+	}
+	#bunch_get_in_touch-2+.col-md-3 {
+		width: 50%;
+	}
+	.gardener {
+		float: left;
+		width: 100%;
+		padding: 50px 0 20px;
+	}
+	.topbar .col-md-6.text-left {
+		width: 80%;
+	}
+	.topbar .col-md-6.text-right {
+		width: 20%;
+	}
+	.lady-garden {
+		margin-top: -35px;
+	}
+	.service-render-text h4 {
+		margin: 0px 0px -70px 125px;
+	}
+	.skew-pro h4 {
+		font-size: 15px;
+	}
+	.skew-pro .shop-meta {
+		left: 20px;
+	}
+	.members-page .about-widget .post-media.entry {
+		height: auto;
+		overflow: hidden;
+	}
+	.small-title h4 {
+		font-size: 13px;
+	}
+	.members-page .about-widget .post-media.entry {
+		height: 250px;
+		overflow: hidden;
+	}
+	.banner-not-found h2 {
+		color: #fff;
+		font-size: 35px;
+		font-weight: 600;
+	}
+	.banner-not-found img {
+		position: relative;
+		bottom: 0;
+		margin-bottom: -50px;
+		width: 100%;
+		margin-top: -150px;
+	}
+	.bottom-section {
+		display: none;
+	}
+	.content-wrap h5 {
+        margin: 6px 0 5px;
+        padding: 0 10px 0 0;
+        font-size: 13px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+	#wrapper {
+		width: 100%;
+	}
+	.lawn-maintenance {
+		margin-top: 15px;
+	}
+	.social-icon {
+		float: right;
+		list-style: none;
+		margin: 0;
+	}
+	.navbar-nav>li>a {
+		font-size: 14px;
+		padding: 14px 10px;
+	}
+	.dropdown-menu {
+		font-size: 13px;
+	}
+	.navbar-brand img {
+		width: 200px;
+	}
+	header.header div.col-md-3.col-sm-12.col-xs-12 {
+		width: auto;
+	}
+	.header-contact i {
+		font-size: 30px !important;
+		margin: 10px 8px 0 0;
+	}
+	.header-contact p {
+		line-height: 20px;
+		font-size: 12px;
+		color: #fff;
+	}
+	.gray-section-info {
+		float: left;
+		width: 100%;
+	}
+	.mission-img img {
+		width: 70%;
+		position: relative;
+		top: -65px;
+	}
+	.mission-text {
+		float: left;
+		width: 80%;
+		margin: -110px 10% 90px 10%;
+	}
+	.img-responsive {
+		width: 100%;
+	}
+	.about-widget {
+		margin-bottom: 50px;
+	}
+	.gardener-select {
+		margin-bottom: 30px;
+	}
+	.appointment {
+		padding-bottom: 90px;
+	}
+	footer {
+		height: auto;
+	}
+	.hidden-md {
+		display: none;
+	}
+	.footer-bottom .col-sm-4 {
+		width: 50%;
+	}
+	#bunch_get_in_touch-2+.col-md-3 {
+		float: left;
+		width: 50%;
+	}
+	.lady-garden {
+		display: none;
+	}
+	.bottom-section p {
+		font-size: 16px;
+	}
+	.pricing-box-03 {
+		margin-bottom: 35px;
+	}
+	.members-page .about-widget .post-media.entry {
+		height: auto;
+		overflow: hidden;
+	}
+	.textimonial-img {
+		border: solid #7dc01c 2px;
+	}
+	.message-qout {
+		transform: skew(0);
+	}
+	.left .message-contact {
+		background: #272727;
+		width: 100%;
+		padding: 20px 30px;
+		border-radius: 0;
+		color: #fff;
+		position: relative;
+		border-bottom: solid #7dc01c 5px;
+	}
+	.message-contact p {
+		transform: skew(0deg);
+		font-size: 13px;
+		line-height: normal;
+	}
+	.message-contact h5 {
+		padding-left: 0;
+		transform: skew(0);
+		font-size: 14px;
+		margin: 0;
+		padding: 0;
+	}
+	.left .message-contact::after {
+		content: "";
+		width: 0;
+		height: 0;
+		border-left: solid #272727 20px;
+		border-bottom: solid transparent 20px;
+		border-top: solid transparent 20px;
+		display: block;
+		position: absolute;
+		right: -20px;
+		top: 30px;
+	}
+	.right .message-contact::after {
+		content: "";
+		width: 0;
+		height: 0;
+		border-right: solid #272727 20px;
+		border-bottom: solid transparent 20px;
+		border-top: solid transparent 20px;
+		display: block;
+		position: absolute;
+		left: -20px;
+		top: 30px;
+	}
+	.brwon-img {
+		background-image: url('../images/soild-bg.png');
+		background-size: auto;
+		background-position: right bottom;
+		box-shadow: 0 -50px 85px -120px #000;
+		background-repeat: no-repeat;
+	}
+	.banner-not-found {
+		float: left;
+		width: 100%;
+		background: url('../images/green-bg.jpg');
+		background-size: auto auto;
+		background-size: cover;
+		padding: 30px 30px;
+		margin: 25px 0;
+	}
+	.banner-not-found h2 {
+		font-size: 25px;
+	}
+	.page-not-found p {
+		font-size: 14px;
+	}
+	.banner-not-found img {
+		margin-top: -31px;
+	}
+	.Shop-Layout-page .side-bar {
+		display: none;
+	}
+	.product-detail-side span {
+		font-size: 19px;
+		font-weight: 300;
+		margin-right: 15px;
+	}
+	.product-heading h2 {
+		font-size: 24px;
+		color: #181818;
+		padding-bottom: 10px;
+	}
+	.checkout .shopping-cart-cart {
+		margin-top: 25px;
+	}
+	.bottom-section {
+		display: none;
+	}
+	.topbar .col-md-6.text-left {
+        float: left;
+    }
+}
+
+
+/** mobile **/
+
+@media (max-width:767px) {
+	.section {
+		padding: 25px 0;
+	}
+	.container {
+        padding: 0 10px;
+    }
+	.menu-margin {
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+	header .navbar-brand img {
+		width: 190px;
+		position: relative;
+		z-index: 99;
+	}
+	.img-responsive {
+		width: 100%;
+	}
+	#wrapper {
+		width: 100%;
+		padding: 0;
+	}
+	.about-us h2 {
+		margin-bottom: 0px;
+		font-size: 20px;
+		margin-top: 15px;
+	}
+	.lead {
+		font-size: 15px;
+		line-height: 24px;
+		color: #666;
+		font-weight: 400;
+		margin-bottom: 10px;
+	}
+	p {
+		font-size: 13px;
+		font-weight: 400;
+	}
+	.about-us ul {
+		float: left;
+		width: 100%;
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		display: none;
+	}
+	.about-us ul li {
+		color: #79a000;
+		font-size: 15px;
+		font-style: normal;
+		font-weight: 500;
+		line-height: 30px;
+	}
+	h3 {
+		font-size: 20px;
+		margin-top: 10px;
+	}
+	.lawn-maintenance img {
+		float: left;
+		width: 100%;
+		margin-top: 10px;
+	}
+	.gray-section-info {
+		padding: 40px 0;
+		background-image: none;
+		background-color: #222;
+		background-position: bottom;
+		background-size: cover;
+		float: left;
+		width: 100%;
+	}
+	.gray-section-info .lead.center-text {
+		color: #ccc;
+		font-size: 14px;
+		width: 100%;
+		margin: 0 auto;
+		line-height: 24px;
+		padding: 0 15px;
+	}
+	.aio-icon-title {
+		text-align: left;
+		font-size: 18px;
+	}
+	.our-mission {
+		float: left;
+		width: 100%;
+	}
+	.mission-text {
+		float: left;
+		width: 100%;
+		margin: 0 0 90px 0;
+		box-shadow: 0 0 60px rgba(0, 0, 0, 0.11);
+		border-radius: 15px;
+		padding: 40px 25px 40px 25px;
+		background: #fff;
+		position: relative;
+		z-index: 1;
+	}
+	.mission-img img {
+		width: 70%;
+		position: relative;
+		top: 15px;
+		margin-bottom: 25px;
+	}
+	.imformation-text {
+		float: left;
+		width: 100%;
+		padding: 40px 30px;
+		margin: 0;
+		color: #fff;
+	}
+	.imformation-text h2 {
+		font-size: 24px;
+	}
+	.imformation-text ul {
+		display: none;
+	}
+	.about-widget {
+		float: left;
+		width: 100%;
+		position: relative;
+		margin-bottom: 50px;
+	}
+	.section.lb.our-gar {
+		padding-bottom: 0;
+	}
+	.appointment {
+		border: none;
+		padding-left: 45px;
+		padding-right: 45px;
+		padding-top: 55px;
+		padding-bottom: 85px;
+	}
+	.gardener-select {
+		margin-bottom: 30px;
+	}
+	.bottom-section {
+		padding-bottom: 35px;
+		background-size: cover;
+	}
+	.bottom-section p {
+		text-align: left;
+	}
+	.btn-contact {
+		float: left;
+	}
+	.section-title h3,
+	.big-title h3 {
+		font-size: 20px;
+	}
+	.team-members .small-title {
+		width: 80%;
+		margin: -32px 10% 0 10%;
+	}
+	footer {
+		height: auto;
+	}
+	.hidden-md {
+		display: none;
+	}
+	.footer-widget {
+		margin-bottom: 25px;
+	}
+	.main-menu {
+		float: right;
+		width: 100%;
+		margin-bottom: 0;
+		margin-top: -50px;
+	}
+	.lady-garden {
+		display: none;
+	}
+	.inner-page-banner {
+		border-bottom: solid #eee 1px;
+		border-top: solid #eee 1px;
+	}
+	.service-render-text h4 {
+		width: 180px;
+		height: 180px;
+		color: #fff;
+		margin: 0px 0px -50px 95px;
+	}
+	.section-title {
+		margin-bottom: 20px;
+	}
+	.hoverbox.parallax {
+		margin-top: 10px;
+		margin-bottom: 20px;
+	}
+	.section {
+		padding: 25px 0;
+	}
+	.brwon-img {
+		background-size: auto;
+		background-position: left bottom;
+		background-repeat: no-repeat;
+	}
+	.pricing-box-03-body ul li {
+		font-size: 12px;
+	}
+	.pricing-box-03 {
+		margin-bottom: 35px;
+	}
+	.breadcrumbs {
+		display: none;
+	}
+	.inner-page-banner h4 {
+		width: 100%;
+		text-align: center;
+	}
+	.members-page .about-widget .post-media.entry {
+		height: auto;
+		overflow: hidden;
+	}
+	.gardener-list .col-md-7 {
+		float: left;
+	}
+	.light-sliver .section-title {
+		margin: 0;
+		text-align: center;
+	}
+	.left .message-contact::after,
+	.right .message-contact::after {
+		display: none;
+	}
+	.left .message-contact {
+		background: #272727;
+		width: 100%;
+	}
+	.message-qout {
+		transform: skew(0deg);
+	}
+	.message-contact p {
+		transform: skew(0deg);
+	}
+	.message-contact h5 {
+		padding-left: 0;
+		transform: skew(0deg);
+	}
+	.divorce-icon,
+	.message-qout {
+		margin-bottom: 25px;
+	}
+	.feature-blog-heading h2 {
+		font-size: 15px;
+		text-align: center;
+		padding: 0;
+		line-height: 24px;
+	}
+	.post-resource ul li {
+		text-align: center;
+	}
+	.blog-list li {
+		margin: 5px 0;
+		font-size: 15px;
+	}
+	.clients-say {
+		display: none;
+	}
+	.share-post li {
+		float: left;
+		margin: 0 0 0 20px;
+	}
+	.blog-list {
+		display: none;
+	}
+	.commant-text .profile {
+		float: left;
+		width: 80%;
+		margin: 0 10% 25px;
+	}
+	.side-bar-blog li {
+		padding: 15px 15px;
+		display: block;
+	}
+	.side-bar-blog li .post-thumb {
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	.banner-not-found img {
+		display: none;
+	}
+	.banner-not-found {
+		padding: 25px 10px;
+		margin: 50px 0;
+	}
+	.banner-not-found h2 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.Shop-Layout-page .side-bar {
+		display: none;
+	}
+	.product-img-main .left.carousel-control {
+		background: #2f2f2f;
+		opacity: 1;
+		width: 30px;
+		left: -30px;
+		height: 100%;
+		margin-top: 0;
+	}
+	.product-img-main .right.carousel-control {
+		background: #2f2f2f;
+		opacity: 1;
+		width: 30px;
+		right: -30px;
+		height: 100%;
+		margin-top: 0;
+	}
+	.product-img-main .left.carousel-control span,
+	.product-img-main .right.carousel-control span {
+		width: 24px;
+	}
+	.checkout-form {
+		margin: 3px 0 20px;
+		padding: 25px 10px;
+	}
+	.product-heading {
+		text-align: left;
+		border-bottom: 1px solid #f0f0f0;
+		margin-top: 30px;
+	}
+	.product-heading h2 {
+		font-size: 28px;
+		color: #181818;
+		padding-bottom: 10px;
+		font-weight: 500;
+	}
+	.checkout .button {
+		width: 60%;
+		margin: 0 20%;
+	}
+	.checkout .remeber {
+		width: 100%;
+		text-align: center;
+		justify-content: center;
+		display: block;
+		margin-top: 10px;
+	}
+	.form-field.cardNumber .input-group-addon {
+		display: none;
+	}
+	.checkout h2 {
+		font-size: 20px;
+		margin: 25px 0 10px;
+		padding: 0;
+	}
+	.product-table table {
+		width: 900px;
+		max-width: 900px;
+		margin: 0;
+	}
+	.product-table {
+		margin-bottom: 25px;
+	}
+	.product-table {
+		float: left;
+		width: 100%;
+		overflow-y: scroll;
+	}
+	.shopping-cart-cart {
+        width: 100%;
+        float: right;
+        background: #f8f8f8;
+        padding: 15px;
+        overflow: scroll;
+    }
+	.shopping-cart-cart .button span {
+		font-size: 15px;
+	}
+	div.top-inform .workinghours {
+		margin-top: 25px;
+		padding-bottom: 60px;
+	}
+	.bottom-section {
+		display: none;
+	}
+	.shopping-cart .shopping-cart-cart table {
+        float: left;
+        min-width: 380px;
+        width: 100%;
+    }
+	.shopping-cart.checkout .shopping-cart-cart table {
+        float: left;
+        min-width: 100%;
+        width: 100%;
+    }
+	.content-wrap {
+        position: relative;
+        top: 0;
+        padding-left: 0;
+    }
+	.serv ul li {
+       display: block;
+       margin-bottom: 35px;
+    }
+	.service-img {
+       width: 100%;
+       margin-right: 0;
+       margin-top: 20px;
+       margin-bottom: 20px;
+    }
+	.service-plant {
+       padding: 15px 0 0;
+       float: left;
+       width: 100%;
+    }
+	.flaticon-shovel::before {
+       display: block;
+    }
+    .section-title {
+       padding-left: 50px;
+    }
+}
